@@ -4,10 +4,18 @@
     {
         static void Main(string[] args)
         {
-            string middleName = "Lee";
-            int age = 52;
+            string babyName = "Layla";
+            int ageInMonths = 7;
+            char midInitial = 'A';
+            string birthMonth = "March";
+            int birthDay = 4;
 
-                Console.WriteLine($"My name is John {middleName} and I will be {age} soon.");
+            Console.WriteLine($"Good morning, all.  My name is Little {babyName}, and I am {ageInMonths} " +
+                $"months old.  My middle initial is {midInitial}, and my birthday is {birthMonth} {birthDay}. I " +
+                $"can't wait!");
+            
+
+                
 
 
 
