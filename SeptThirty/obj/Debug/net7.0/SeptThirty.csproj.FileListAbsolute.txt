@@ -1,0 +1,14 @@
+C:\Users\johnf\OneDrive\Desktop\repos\SeptThirty\SeptThirty\bin\Debug\net7.0\SeptThirty.exe
+C:\Users\johnf\OneDrive\Desktop\repos\SeptThirty\SeptThirty\bin\Debug\net7.0\SeptThirty.deps.json
+C:\Users\johnf\OneDrive\Desktop\repos\SeptThirty\SeptThirty\bin\Debug\net7.0\SeptThirty.runtimeconfig.json
+C:\Users\johnf\OneDrive\Desktop\repos\SeptThirty\SeptThirty\bin\Debug\net7.0\SeptThirty.dll
+C:\Users\johnf\OneDrive\Desktop\repos\SeptThirty\SeptThirty\bin\Debug\net7.0\SeptThirty.pdb
+C:\Users\johnf\OneDrive\Desktop\repos\SeptThirty\SeptThirty\obj\Debug\net7.0\SeptThirty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnf\OneDrive\Desktop\repos\SeptThirty\SeptThirty\obj\Debug\net7.0\SeptThirty.AssemblyInfoInputs.cache
+C:\Users\johnf\OneDrive\Desktop\repos\SeptThirty\SeptThirty\obj\Debug\net7.0\SeptThirty.AssemblyInfo.cs
+C:\Users\johnf\OneDrive\Desktop\repos\SeptThirty\SeptThirty\obj\Debug\net7.0\SeptThirty.csproj.CoreCompileInputs.cache
+C:\Users\johnf\OneDrive\Desktop\repos\SeptThirty\SeptThirty\obj\Debug\net7.0\SeptThirty.dll
+C:\Users\johnf\OneDrive\Desktop\repos\SeptThirty\SeptThirty\obj\Debug\net7.0\refint\SeptThirty.dll
+C:\Users\johnf\OneDrive\Desktop\repos\SeptThirty\SeptThirty\obj\Debug\net7.0\SeptThirty.pdb
+C:\Users\johnf\OneDrive\Desktop\repos\SeptThirty\SeptThirty\obj\Debug\net7.0\SeptThirty.genruntimeconfig.cache
+C:\Users\johnf\OneDrive\Desktop\repos\SeptThirty\SeptThirty\obj\Debug\net7.0\ref\SeptThirty.dll
